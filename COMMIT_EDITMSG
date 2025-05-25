@@ -1,0 +1,7 @@
+Enable users to connect cryptocurrency wallets to their accounts
+
+Adds database migration script to add wallet integration fields to User model.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 95608f21-5a39-4e24-b30c-62e9faaa397c
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/99106818-4148-42c1-8948-b2253a76c377/f4e9b262-6a2e-4c24-8986-716c45fba576.jpg
